@@ -8,7 +8,13 @@ html,
 body,
 .view {
   height: 100%;
+  background-image: url("../img/entaoBrilha.jpg"); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center center;
 }
+
+
 
 @media (max-width: 740px) {
   html,
